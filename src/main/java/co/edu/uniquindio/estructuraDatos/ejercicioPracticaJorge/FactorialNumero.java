@@ -7,7 +7,7 @@ package co.edu.uniquindio.estructuraDatos.ejercicioPracticaJorge;
 
 public class FactorialNumero {
     public static void main(String[] args) {
-        int n = -2;
+        int n = 4;
 
         if (n < 0) {
             System.out.println("Debe ser un número positivo");
